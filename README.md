@@ -1,5 +1,5 @@
 # kinects-dataset
-Basic Analitics Kinectis dataset
+Basic Analytics Kinectis dataset
 - [Official Page](https://deepmind.com/research/open-source/kinetics)
 - [Paper](https://arxiv.org/abs/1907.06987)
 ### Execute
