@@ -1,6 +1,7 @@
 # kinects-dataset
 Basic Analitics Kinectis dataset
-____
+- [Official Page](https://deepmind.com/research/open-source/kinetics)
+- [Paper](https://arxiv.org/abs/1907.06987)
 ### Execute
 Install dependencies
 ```bash
