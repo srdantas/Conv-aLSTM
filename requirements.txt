@@ -2,3 +2,6 @@ pytube
 joblib
 pandas
 matplotlib
+jupyter
+notebook
+ffmpeg-python
