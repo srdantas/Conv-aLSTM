@@ -1,5 +1,8 @@
-# kinects-dataset
-Basic Analytics Kinectis dataset
+# Video Processing
+### Video Download
+The download is used with kinects dataset.
+
+Kinectis dataset
 - [Official Page](https://deepmind.com/research/open-source/kinetics)
 - [Paper](https://arxiv.org/abs/1907.06987)
 
@@ -20,4 +23,3 @@ conda env create -f enviroment.yml
 ```bash
 jupyter notebook
 ```
-__Read and execute the video_download notebook for make all video download__
