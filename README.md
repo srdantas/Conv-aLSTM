@@ -23,3 +23,10 @@ conda env create -f enviroment.yml
 ```bash
 jupyter notebook
 ```
+
+#### SSL Error in video download
+Install certifi from conda-forge to update it and make a videos download
+
+```bash
+conda install -c conda-forge certifi 
+```

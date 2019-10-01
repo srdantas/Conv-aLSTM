@@ -4,4 +4,4 @@ pandas
 matplotlib
 jupyter
 notebook
-ffmpeg-python
+moviepy
