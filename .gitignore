@@ -3,3 +3,5 @@ dataset/*
 .idea/*
 
 __temp__**
+
+__pycache__**
