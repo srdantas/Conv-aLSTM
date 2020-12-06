@@ -1,7 +1,8 @@
-pytube
+pytube~=10.0.0
 joblib
-pandas
+pandas~=1.0.4
 matplotlib
 jupyter
 notebook
-moviepy
+moviepy~=1.0.3
+tqdm~=4.48.2
