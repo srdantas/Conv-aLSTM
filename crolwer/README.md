@@ -4,14 +4,31 @@ This script enable to download dataset from Kinetics 700 from 2020.
 
 ## Run:
 
+### install ffmpeg
+
+```bash
+sudo apt-get install ffmpeg
+```
+
+#### SSL Error in video download
+
+Install certify from conda-forge to update it and make a videos download
+
+```bash
+conda install -c conda-forge certifi 
+```
+
 ### Conda env
+
 This project using the conda env for setup environment.
+
 ```shell
 conda env create -f enviroment.yml
 conda activate conv-alstm-crowler
 ```
 
 After create and start env, run it:
+
 ```shell
 python3 main.py
 ```
