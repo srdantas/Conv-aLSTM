@@ -1,0 +1,4 @@
+pytube
+moviepy
+pandas
+tqdm
